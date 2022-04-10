@@ -6,7 +6,7 @@
   - Run the code under the title `Code for capturing and generating images`. Allow the notebook to access your webcam. A green box will appear which indicates the area that will be captured and processed. Hence, make sure that your object lies in this region of interest (ROI).
   - Press `C` on your keyboard to capture an image.
   - To quit, press `Q`. 
-  - Once you quit, the images will be saved in a new folder created with the name `Captured Images`.
+  - Once you quit, the images will be saved in a new folder created with the name `Captured Grayscale Images`.
   - Run all the remaining cells to generate a csv file for the images and visulaize the data by specifying a valid path to `generated_data.csv` file which will be generated once you run the code cell under the title `Generating a CSV file`.
 
 ## Specifications of generated images
